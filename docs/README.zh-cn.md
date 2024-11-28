@@ -4,7 +4,7 @@
 
 GPT-Telegram-Bot 是一个功能强大的 Telegram 机器人，集成了多种 AI 模型，提供智能对话、图像生成和分析等功能。
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsnakeying%2FGPT-Telegram-Bot)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/mariahlamb/GPT-Telegram-Bot)
 
 ## 主要功能 🌟
 
